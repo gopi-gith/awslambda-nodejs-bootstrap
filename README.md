@@ -1,4 +1,4 @@
-# AWS Lambda nodejs bootstrap
+# AWS Lambda nodejs bootstrap [![Build Status](https://travis-ci.org/mgopi/awslambda-nodejs-bootstrap.svg)](https://travis-ci.org/mgopi/awslambda-nodejs-bootstrap)
 
 A simple nodejs bootstrap that lets you quickly get started with developing & deploying AWS Lambda functions.
 
